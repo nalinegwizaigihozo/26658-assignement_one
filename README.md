@@ -1,4 +1,4 @@
-# docker configuations step
+# docker configurations step
 
 ## create docker file
 
